@@ -16,7 +16,6 @@ AEGIS is a web-based cybersecurity tool designed to scan and analyze QR codes in
 - **DevOps:** Docker, Hugging Face Spaces
 
 ## 🔗 Live Demo
-Check out the live version here: [MASUKKAN_LINK_HUGGING_FACE_LO_DI_SINI]
-
+Check out the live version here: (https://zxytha-aegis-qr-scanner.hf.space/)
 ---
 *Created by [Artha Anugerah Effendi] - 2026*
